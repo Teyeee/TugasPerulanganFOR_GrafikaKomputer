@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>NIM</th>
-    <td>22104410015</td>
+    <td>22104410049</td>
   </tr>
   <tr>
     <th>Nama Lengkap</th>
